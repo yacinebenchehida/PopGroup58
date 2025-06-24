@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "talkppt",
+  "private_key_id": "X",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nX/7\nX\nX\nX\nX\nPOv7oXt+AO2FnGlhfS3ExF3H3T6x7RqyQpNyOpZcKEuIZXr4/dZRt912XjIT9Nuh\nHBad06FDAgMBAAECggEABCGAVwtjO4jHo5jwVtQVOcmMMQTK5GPV5k/wd/odqbY0\n6Elv+2nDQxoXeUy0gP7WkmnTN66j+tr6b3St0fLsDtS6bbXWqXgT4LVGbB26wod8\ny0F7DDVhYwJ9TUNxVgMzx5GCg2G1uRVQsxKMQL3RxdUbYBOvoLLqXNhxchpiuWgV\njRVj+eOvp7KHfZbsAYCZtSdHlBInrIJsqOGRG2/LIUrMcK+pem5x7U7xck2qvtFe\nFhhHbHFRLC4uJ0yVRCHoy+8gdVcJm3j/ACU1ceQ9k/Te0yIdztMqucmDmgaX3bm4\noi28PKUxZM1frIa2jnC4QtqhZaVrHdXsgWVyyOhVUQKBgQDoPiuB0hkwljbt6da5\n9lude2cs+732PoN2orUQB3jgZMqIYGD4PyXSPeYiLkZeIdSoc1xv4N9iU1UlDqom\n2hxEM5JYM1jGZ3DijbDcYSnEQPzTnJJmkTpR2CkWQXycOQqfT+z6RllqQtlat03q\ngnPQfPqxnUK9cny4Wknl3S+fJQKBgQC1frbSGl0Gw6V9QD+XnlQrIJxt46TmAoZX\nm3ENegkA7PO7WuFuovTQRvYSmbJsuWJcBFloAaAsbLxtHiWBvPSNdgLDb4oEJTve\nOnIs4ETMji9vrmt4D/Huod6Q+0rsU53H98fHyVxFN/tynTyXB8LdLI0tdzzCfc72\npUjEv1MmRwKBgBfsZ5Ds8plVr/zcDLmFTjSvxJYWrJ/UGri61An9qw76cv6PZw3L\ne3rn03AL8kW6GGztzUTdFkXLrcaudwqfhy/jXBzn1SpC95bu35wkCihkRWcLBu23\n4hkSOlFHl62EFrsIgbHaU1Wl4zv8C/OvUnzUkwJ+36QiSgS3kEs0eLZdAoGBAJel\nm84rtwTa3mCsGTZvVXZ/lhT/e52wCF4VBD41dGZwlio6glf2EsYgNKVQBNRxhazK\n+YU8rn/QDxTBdqdToaa9LwvrG4/hKIfDn/i9Ht8oApy3SRaVhBlW6OeNAIo8R355\nG1VkexNe9ltK5ABxvLEe84tEsOD1S8OsUQQLtMcrAoGBAKUoMcYdUc0obOuXr2YA\nbjCnvwOcVU5m3I7Im6ygHPv3Y4luTlO1Tap9g7X2hxnEqESkx1++iCx4A7DHY4Sm\nXnmlSuvyIfOOpjO8tMUqARACpPMJpiHGRB8KmLqNaOZ+JsOtgqXmhu+Sntxih2Z7\nop+To0gSN40JNCdJ8kVFm3jt\n-----END PRIVATE KEY-----\n",
+  "client_email": "X",
+  "client_id": "X",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/talkppt%40talkppt.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
