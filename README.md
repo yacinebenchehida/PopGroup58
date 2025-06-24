@@ -2,4 +2,4 @@
 
 Under progress!!
 
-<img src="Figures/Example.png" width="90%" height="90%"/>
+<img src="Word_cloud/wordcloud.png" width="90%" height="90%"/>
